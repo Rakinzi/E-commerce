@@ -1,0 +1,11 @@
+name,description,price,category,subcategory,stock,sku,tags,active
+"Premium Interior Paint - White","High-quality interior paint with excellent coverage and durability. Perfect for living rooms and bedrooms.",45.99,"Paint & Decoration","Interior Paint",25,IP001,"paint;interior;white;premium",true
+"Exterior Weather Shield Paint","Weather-resistant exterior paint that protects against harsh conditions for up to 10 years.",89.99,"Paint & Decoration","Exterior Paint",15,EP001,"paint;exterior;weather-resistant;protection",true
+"Professional Paint Brush Set","Complete set of professional paint brushes for all painting projects. Includes 5 different sizes.",29.99,"Paint & Decoration","Paint Accessories",50,PA001,"brushes;painting;tools;professional",true
+"Lafarge Cement 50kg","High-quality Portland cement suitable for all construction projects. 50kg bag.",12.50,"Building Materials","Cement",100,CM001,"cement;construction;portland;lafarge",true
+"Steel Reinforcement Bars 12mm","High-grade steel reinforcement bars for concrete construction. 12mm diameter, 6m length.",8.75,"Building Materials","Reinforcements",75,RB001,"steel;reinforcement;construction;concrete",true
+"Solid Wood Interior Door","Premium solid wood interior door with pre-hung frame. Standard 80cm x 200cm size.",159.99,"Building Materials","Doors",20,DR001,"door;interior;wood;premium",true
+"Cordless Drill 18V","Professional cordless drill with 18V lithium battery. Includes charger and carry case.",129.99,"Tools & Equipment","Power Tools",30,PT001,"drill;cordless;battery;professional",true
+"Hammer Set - 3 Piece","Professional hammer set including claw hammer, ball peen hammer, and rubber mallet.",39.99,"Tools & Equipment","Hand Tools",40,HT001,"hammer;tools;professional;set",true
+"Safety Helmet - Hard Hat","Industrial safety helmet meeting all safety standards. Adjustable fit with chin strap.",24.99,"Tools & Equipment","Safety Equipment",60,SE001,"safety;helmet;protection;industrial",true
+"Digital Measuring Tape 5m","Professional digital measuring tape with LCD display. 5 meter length with metric and imperial.",34.99,"Tools & Equipment","Measuring Tools",35,MT001,"measuring;tape;digital;professional",true

@@ -1,0 +1,6 @@
+name,description,price,category,stock,sku,status,tags,weight,dimensions,brand,material,color,size
+"Premium Wireless Headphones","High-quality bluetooth headphones with noise cancellation and 30-hour battery life",199.99,"Electronics",50,"WH-001","active","wireless,bluetooth,headphones,audio",0.8,"22x18x8cm","SoundTech","Plastic/Metal","Black","Standard"
+"Organic Cotton T-Shirt","100% organic cotton comfortable t-shirt perfect for everyday wear",29.99,"Clothing",100,"CT-002","active","organic,cotton,casual,comfort",0.2,"varies","EcoWear","Organic Cotton","White","Medium"
+"Stainless Steel Water Bottle","BPA-free insulated water bottle that keeps drinks cold for 24h or hot for 12h",24.99,"Home & Kitchen",75,"WB-003","active","stainless,insulated,BPA-free,eco-friendly",0.5,"26x7cm","HydroLife","Stainless Steel","Blue","750ml"
+"Gaming Mechanical Keyboard","RGB backlit mechanical keyboard with tactile switches for gaming and productivity",149.99,"Electronics",30,"KB-004","active","gaming,mechanical,RGB,tactile",1.2,"44x13x4cm","GameTech","Aluminum/Plastic","Black","Full Size"
+"Yoga Mat Premium","Non-slip premium yoga mat with alignment guides and carrying strap",59.99,"Sports & Fitness",40,"YM-005","active","yoga,fitness,non-slip,alignment",1.8,"183x61x0.6cm","ZenFit","TPE","Purple","Standard"
